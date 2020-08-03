@@ -16,7 +16,7 @@ Please feel free to reach me at christian.d.battaglia@gmail.com for any and all 
 
 I'm also available at:
 
-Twitter - https://twitter.com/cdbattags
-LinkedIn - https://linkedin.com/in/cdbattags
+- Twitter --> https://twitter.com/cdbattags
+- LinkedIn --> https://linkedin.com/in/cdbattags
 
 The special sauce is in the "tersa" submodule but that might be a little hard for this context.
