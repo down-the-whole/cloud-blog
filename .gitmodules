@@ -1,0 +1,3 @@
+[submodule "modules/tersa"]
+	path = modules/tersa
+	url = git@github.com:down-the-whole/tersa.git
